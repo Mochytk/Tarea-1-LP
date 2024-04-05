@@ -47,7 +47,7 @@ def buscar_MP(linea):
     
     print
 
-arch_op = open("Ejemplos de prueba T1/input.txt", "r")
+arch_op = open("input.txt", "r")
 
 if arch_op.closed:
     print ("Error, el archivo está cerrado")
